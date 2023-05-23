@@ -10,4 +10,32 @@ Gradient Descent: Gradient descent is an iterative optimization algorithm used t
 
 Scikit-learn Library: Scikit-learn is a powerful machine learning library in Python that provides a comprehensive set of tools for various tasks, including linear regression. This repository offers examples of linear regression using scikit-learn, demonstrating how to utilize its functions and features.
 
+Repository Structure
+The repository is organized as follows:
+
+Copy code
+linear-regression-ml/
+  ├── ols_regression.py
+  ├── gradient_descent.py
+  ├── sklearn_regression.py
+  └── README.md
+ols_regression.py: This file contains the implementation of linear regression using Ordinary Least Squares.
+
+gradient_descent.py: This file contains the implementation of linear regression using Gradient Descent.
+
+sklearn_regression.py: This file demonstrates how to use the scikit-learn library for linear regression.
+
+README.md: This file provides an overview of the repository and its contents.
+
+Contributing
+If you'd like to contribute to this repository, you can:
+
+Add additional implementations of linear regression using different techniques.
+Improve existing code or documentation.
+Fix any issues or bugs.
+To contribute, follow these steps:
+
+Fork the repository on GitHub.
+Make your desired changes in your forked repository.
+Submit a pull request describing your changes.
 
