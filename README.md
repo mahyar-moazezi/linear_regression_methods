@@ -1,7 +1,7 @@
 # Linear Regression in Machine Learning
 This repository contains various implementations of linear regression in machine learning using different techniques. Linear regression is a widely used statistical modeling technique that aims to establish a linear relationship between independent variables and a dependent variable. It is commonly used for tasks such as prediction, forecasting, and understanding the relationships between variables.
 
-Implementations
+# Implementations
 The repository provides the following implementations of linear regression:
 
 Ordinary Least Squares (OLS): The OLS method is a classic approach to estimating the parameters of a linear regression model. It minimizes the sum of the squared differences between the observed and predicted values. In this repository, you will find an implementation of OLS using Python and NumPy.
@@ -10,7 +10,7 @@ Gradient Descent: Gradient descent is an iterative optimization algorithm used t
 
 Scikit-learn Library: Scikit-learn is a powerful machine learning library in Python that provides a comprehensive set of tools for various tasks, including linear regression. This repository offers examples of linear regression using scikit-learn, demonstrating how to utilize its functions and features.
 
-Repository Structure
+# Repository Structure
 The repository is organized as follows:
 
 Copy code
@@ -27,7 +27,7 @@ sklearn_regression.py: This file demonstrates how to use the scikit-learn librar
 
 README.md: This file provides an overview of the repository and its contents.
 
-Contributing
+# Contributing
 If you'd like to contribute to this repository, you can:
 
 Add additional implementations of linear regression using different techniques.
